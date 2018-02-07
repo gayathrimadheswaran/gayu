@@ -2,9 +2,10 @@
 int main()
 {
 int n,i;
+  char s[100];
 gets(s);
 printf("\n number of times");
-scanf("%d",&i);
+scanf("%d",&n);
 for(i=0;i<n;i++)
 {
 printf("\n%s",s);
