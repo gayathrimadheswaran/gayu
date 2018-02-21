@@ -16,4 +16,5 @@ int temp;
 temp=a;
 a=b;
 b=temp;
+  printf("\n %d %d",a,b);
 }
