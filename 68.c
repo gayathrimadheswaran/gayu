@@ -6,7 +6,7 @@ int n;
 clrscr();
 printf("\n values");
 scanf("%d",&n);
-if(n%2==0)
+if(n%7==0)
 {
 printf("\n yes");
 }
