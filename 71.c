@@ -15,11 +15,11 @@ t=t\10;
 }
 if(t==s)
 {
-printf("\nprime");
+printf("\nyes");
 }
 else
 {
-prime("\n not prime");
+prime("\n no");
 }
 getch();
 
