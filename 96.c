@@ -2,12 +2,12 @@
 #include<conio.h>
 void main()
 {
-int n,i,count=0;
+int m,j,count=0;
 clrscr();
-scanf("%d",&n);
-for(i=2,i<=n/2;i++)
+scanf("%d",&m);
+for(j=2,j<=n/2;j++)
 {
-if(n%i==0)
+if(m%j==0)
 {
 count=1;
 break;
